@@ -6,7 +6,7 @@ Essa primeira parte de projeto foi feito a implementacao de uma tela de consulta
 
 # Breve descricao do que foi implementado:
 
-Os dados estao sendo salvos em arquivo;
-A navegacao entre telas esta sendo feita via segue;
-Ao tocar em um item na tela de listagem o usuario e direcionado para a tela de cadastro, onde o mesmo pode inclui, alterar ou excluir o contato;
-Ao tocar e ficar segurando na tela de listagem o app abre o compartilhamento onde e possivel compartilhar o contato via outros aplicativo.
+1. Os dados estao sendo salvos em arquivo;
+2. A navegacao entre telas esta sendo feita via segue;
+3. Ao tocar em um item na tela de listagem o usuario e direcionado para a tela de cadastro, onde o mesmo pode inclui, alterar ou excluir o contato;
+4. Ao tocar e ficar segurando na tela de listagem o app abre o compartilhamento onde e possivel compartilhar o contato via outros aplicativo.
