@@ -1,7 +1,7 @@
 # UIKitStudy
 Projeto para estudos de IOS com UIKit
 
-Essa primeira parte de projeto foi feito a implementacao de uma tela de consulta com um filtro e uma tela de cadastro de contatos, os contatos tem apenas 3 campos, um para o nome, outro para o endereco e um para o telefone, ainda nao tem mascara implementada para o campo de telefone e o endereco esta com um campo de texto para salvar o endereco completo.
+Nessa primeira parte do projeto foi implementado de uma tela de consulta com um filtro e outra tela de cadastro de contatos, os contatos tem apenas 3 campos, um para o nome, outro para o endereco e um para o telefone, ainda nao tem mascara implementada para o campo de telefone e o endereco esta com um campo de texto para salvar o endereco completo.
 
 
 # Breve descricao do que foi implementado:
